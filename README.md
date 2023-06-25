@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on develop my skils [C programming](https://github.com/amer2040/alx-low_level_programming)
 
-- 🌱 I’m currently learning **Software engineer**
+- 🌱 I’m currently learning to be **Software engineer**
 
 - 📫 How to reach me **aboodamer7@gmail.com**
 
