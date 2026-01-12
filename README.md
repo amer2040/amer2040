@@ -27,12 +27,15 @@ I am a disciplined **Software Engineer** with a robust foundation in full-stack 
 
 **🚀 Current Focus:** Deep diving into **Machine Learning** and **AI Agents**.
 
-### 📊 GitHub Stats
+### 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amer2040&show_icons=true&theme=transparent&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=f1f5f9&icon_color=38bdf8" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=amer2040&theme=transparent&hide_border=true&background=0f172a&currstreak=38bdf8&ring=38bdf8&fire=818cf8&dates=94a3b8&sideNums=f1f5f9&sideLabels=f1f5f9&currStreakNum=f1f5f9" alt="GitHub Streak" />
-</p>
+<div align="center">
+    <a href="https://github.com/amer2040?tab=achievements" target="_blank">
+        <img src="https://user-images.githubusercontent.com/90553775/274415952-c0553137-054b-43ce-8675-bd5952e94552.png" alt="GitHub Achievements" width="50%">
+    </a>
+    <br>
+    <a href="https://github.com/amer2040?tab=achievements" target="_blank">👉 Click here to view my Achievements</a>
+</div>
 
 ### 🛠️ Skills & Technologies
 
