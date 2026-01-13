@@ -27,12 +27,6 @@ I am a disciplined **Software Engineer** with a robust foundation in full-stack 
 
 **🚀 Current Focus:** Deep diving into **Machine Learning** and **AI Agents**.
 
-### 📊 My Activity
-
-<div align="center">
-<p align="center"> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
-</div>
-
 ### 🛠️ Skills & Technologies
 
 -   **Languages:** Python, C, JavaScript (ES6+), TypeScript, SQL, Bash/Shell.
