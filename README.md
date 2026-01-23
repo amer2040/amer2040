@@ -42,7 +42,6 @@ I am a disciplined **Software Engineer** with a robust foundation in full-stack 
 | **AirBnB Clone - Backend** | Python, Custom ORM | Engineered a full-stack foundation with a custom CLI handling CRUD operations. | [GitHub](https://github.com/amer2040/AirBnB_clone) |
 | **Crypto Portfolio API** | Node.js, Express, MySQL | Built a robust API for crypto investments with automated price calculations. | [GitHub](https://github.com/amer2040/crypto-portfolio-tracker) |
 | **Simple Shell** | C, Linux Syscalls | Developed a UNIX command-line interpreter (fork, execve, wait). | [GitHub](https://github.com/amer2040/simple_shell) |
-| **Full-Stack JS System** | Node.js, Redis, MongoDB | Complex backend system with job queues, rate limiting, and async processing. | [GitHub](https://github.com/amer2040/) |
 | **Flask To-Do App** | Python, Flask, SQLite | Full-stack web application with RESTful routing and dynamic HTML. | [GitHub](https://github.com/amer2040/To_Do) |
 
 ### 📫 Get in Touch
